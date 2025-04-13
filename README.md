@@ -1,4 +1,4 @@
-This file contains instructions for using the Jupyter notebooks accompanying [arXiv:2501.16436 *Taming quantum systems: A tutorial for using shortcuts-to-adiabaticity, quantum optimal control, and reinforcement learning*](https://arxiv.org/abs/2501.16436) by Duncan et al. 
+This repository contains the Jupyter notebooks accompanying [arXiv:2501.16436](https://arxiv.org/abs/2501.16436) *Taming quantum systems: A tutorial for using shortcuts-to-adiabaticity, quantum optimal control, and reinforcement learning*by Duncan et al., and instructions for using them.  
 
 
 Sec II: [Shortcuts to Adiabaticity](shortcuts_to_adiabaticity)
