@@ -21,10 +21,10 @@ Required packages can be found in [requirements.txt](./requirements.txt).
 
 You may create a virtual environment using `pip` and install all packages at once by running:
 
-.. python -m venv .ctrl_tutor
-.. source .ctrl_tutor/bin/activate
-.. python -m pip install --upgrade pip
-.. python -m pip install -r requirements.txt
+    .. python -m venv .ctrl_tutor
+    .. source .ctrl_tutor/bin/activate
+    .. python -m pip install --upgrade pip
+    .. python -m pip install -r requirements.txt
 
 
 
