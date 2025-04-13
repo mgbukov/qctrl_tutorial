@@ -22,12 +22,12 @@ Sec IV: [Reinforcement Learning for Optimal Quantum Control](reinforcement_learn
 Required packages can be found in [requirements.txt](./requirements.txt). 
 
 You may create a virtual environment using `pip` and install all packages at once by running:
-
     .. python -m venv .ctrl_tutor
     .. source .ctrl_tutor/bin/activate
     .. python -m pip install --upgrade pip
     .. python -m pip install -r requirements.txt
 
-
-
+To run the jupyter notebooks, run
+    .. jupyter lab
+and select tje notebook you're interested in. 
 
